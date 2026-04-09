@@ -1,0 +1,10 @@
+<dersler>
+    <ders sinif="1">
+        <ad>matematik</ad>
+        <code>mtm101</code>
+    </ders>
+    <ders sinif="2">
+        <ad>türkçe</ad>
+        <code>t102</code>
+    </ders>
+</dersler>
